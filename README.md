@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shannu42&label=Profile%20views&color=0e75b6&style=flat" alt="shannu42" /> </p>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRovpXJrJAwoL5hWtL94kdEV_OMpSf2dWlOrl9sZnWsGzHcIqnLNTzovqLWAG_Ge0pylU&usqp=CAU">
 
-- 🌱 I’m currently learning **React, Django**
+- 🌱 I’m currently learning **Angular, .Net**
 
 - 💬 Ask me about **Html,CSS,JS**
 
